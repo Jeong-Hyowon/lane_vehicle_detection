@@ -1,3 +1,5 @@
-# lane_vehicle_detection
+# lane_vehicle_detection :computer: :car:
 
-경고문구 포함
+#### :one: 차선이탈 시 경고문구 포함 :exclamation:
+
+#### :two: 모든 차량이 아닌 앞 차만 인식 :grey_exclamation:
